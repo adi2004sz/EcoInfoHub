@@ -1,0 +1,73 @@
+.navbar-custom{
+    background-color: #3A4D39;
+    padding: 25px;
+}
+
+.nc{
+    background-color: #3A4D39;
+}
+
+.dropdown-custom{
+    background-color: #ECE3CE;
+}
+
+.text{
+    color: black;
+}
+
+.fortat{
+    color: white;
+}
+
+.black-section {
+    background-color: #4F6F52;
+    color: #ECE3CE;
+    padding: 200px;
+  }
+  .black-section1 {
+    background-color: #4F6F52;
+    color: #ECE3CE;
+    padding: 300px;
+  }
+
+  .black-section2 {
+    background-color: #4F6F52;
+    color: #ECE3CE;
+    padding: 410px;
+  }
+
+.selection:hover{
+    background-color: black;
+}
+
+body{
+    background-color: #ECE3CE;
+}
+
+.cards{
+    padding: 50px;
+}
+
+.info{
+    background-color: #cfe3cf;
+}
+
+.equal-height-columns {
+    display: flex;
+  }
+
+  .map-container {
+    margin-bottom: 20px;
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 500px;
+    border: 0;
+}
+.footer {
+    width: 100%;
+    height: 60px; /* Adjust based on your footer height */
+    line-height: 60px;
+    background-color: #9ADE7B;
+  }
